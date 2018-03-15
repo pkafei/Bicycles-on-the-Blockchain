@@ -19,7 +19,7 @@ App = {
         petsRow.append(petTemplate.html());
       }
     });
-
+    // call the contract
     return App.initWeb3();
   },
 
@@ -43,6 +43,11 @@ App = {
 
       // Set the provider for our contract
       App.contracts.Adoption.setProvider(App.web3Provider);
+
+      // Add transactions
+      var act = web3.currentProvider.publicConfigStore._state.selectedAddress;
+      $('.transactions').text(act);
+
 
       // Use our contract to retriee adn mark the adopted pets
       return App.markAdopted();
@@ -96,9 +101,9 @@ App = {
         console.log(err.message);
       });
     });
-  }
-
+  },
 };
+
 
 $(function() {
   $(window).load(function() {
