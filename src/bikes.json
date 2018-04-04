@@ -1,91 +1,91 @@
 [
   {
     "id": 0,
-    "location": "Frieda",
+    "location": "Dupont Circle",
     "picture": "bike_img/champale_she_devil.jpeg",
     "age": 3,
     "brand": "Champale She Devil",
-    "value": "Lisco, Alabama"
+    "value": "$230"
   },
   {
     "id": 1,
-    "location": "Gina",
+    "location": "Eastern Market",
     "picture": "bike_img/champale_she_devil.jpeg",
     "age": 3,
     "brand": "Champale She Devil",
-    "value": "Tooleville, West Virginia"
+    "value": "$125"
   },
   {
     "id": 2,
-    "location": "Collins",
+    "location": "Noma",
     "picture": "bike_img/cannondale.jpg",
     "age": 2,
-    "brand": "French Bulldog",
-    "value": "Freeburn, Idaho"
+    "brand": "Canonnondale",
+    "value": "$300"
   },
   {
     "id": 3,
-    "location": "Melissa",
+    "location": "Rhode Island",
     "picture": "bike_img/dutchi3_marin.jpg",
     "age": 2,
-    "brand": "Boxer",
-    "value": "Camas, Pennsylvania"
+    "brand": "Marin",
+    "value": "$600"
   },
   {
     "id": 4,
-    "location": "Jeanine",
+    "location": "Foggy Bottom",
     "picture": "bike_img/cannondale.jpg",
     "age": 2,
-    "brand": "French Bulldog",
-    "value": "Gerber, South Dakota"
+    "brand": "Canonndale",
+    "value": "$460"
   },
   {
     "id": 5,
-    "location": "Elvia",
+    "location": "Adams Morgan",
     "picture": "bike_img/cannondale.jpg",
     "age": 3,
-    "brand": "French Bulldog",
-    "value": "Innsbrook, Illinois"
+    "brand": "Cannondale",
+    "value": "$150"
   },
   {
     "id": 6,
-    "location": "Latisha",
+    "location": "Georgetown",
     "picture": "bike_img/felt_verza.jpg",
     "age": 3,
-    "brand": "Golden Retriever",
-    "value": "Soudan, Louisiana"
+    "brand": "Verza Speed",
+    "value": "$560"
   },
   {
     "id": 7,
-    "location": "Coleman",
+    "location": "Chinatown",
     "picture": "bike_img/felt_verza.jpg",
     "age": 3,
-    "brand": "Golden Retriever",
-    "value": "Jacksonwald, Palau"
+    "brand": "Verza Speed",
+    "value": "$420"
   },
   {
     "id": 8,
-    "location": "Nichole",
+    "location": "H Street",
     "picture": "bike_img/cannondale.jpg",
     "age": 2,
-    "brand": "French Bulldog",
-    "value": "Honolulu, Hawaii"
+    "brand": "Cannondale",
+    "value": "$375"
   },
   {
     "id": 9,
-    "location": "Fran",
+    "location": "Shaw",
     "picture": "bike_img/dutchi3_marin.jpg",
     "age": 3,
-    "brand": "Boxer",
-    "value": "Matheny, Utah"
+    "brand": "Marin",
+    "value": "$190"
   },
   {
     "id": 10,
-    "location": "Leonor",
+    "location": "Anacostia",
     "picture": "bike_img/dutchi3_marin.jpg",
     "age": 2,
-    "brand": "Boxer",
-    "value": "Tyhee, Indiana"
+    "brand": "Marin",
+    "value": "$260"
   },
   {
     "id": 11,
@@ -93,38 +93,38 @@
     "picture": "bike_img/champale_she_devil.jpeg",
     "age": 3,
     "brand": "Champale She Devil",
-    "value": "Windsor, Montana"
+    "value": "$520"
   },
   {
     "id": 12,
-    "location": "Stevenson",
+    "location": "Capitol Hill",
     "picture": "bike_img/cannondale.jpg",
     "age": 3,
-    "brand": "French Bulldog",
-    "value": "Kingstowne, Nevada"
+    "brand": "Canonnondale",
+    "value": "$300"
   },
   {
     "id": 13,
-    "location": "Kristina",
+    "location": "Logan Circle",
     "picture": "bike_img/felt_verza.jpg",
     "age": 4,
-    "brand": "Golden Retriever",
-    "value": "Sultana, Massachusetts"
+    "brand": "Verza",
+    "value": "$420"
   },
   {
     "id": 14,
-    "location": "Ethel",
+    "location": "Woodley Park",
     "picture": "bike_img/felt_verza.jpg",
     "age": 2,
-    "brand": "Golden Retriever",
-    "value": "Broadlands, Oregon"
+    "brand": "Verza",
+    "value": "$210"
   },
   {
     "id": 15,
-    "location": "Terry",
+    "location": "Columbia Heights",
     "picture": "bike_img/felt_verza.jpg",
     "age": 2,
-    "brand": "Golden Retriever",
-    "value  ": "Dawn, Wisconsin"
+    "brand": "Verza",
+    "value  ": "$360"
   }
 ]
