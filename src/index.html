@@ -43,16 +43,16 @@
             <p>
               DApps are exciting, but using them is a bit different than surfing on Twitter. Below are the steps you should take in order to get up and running with this cutting edge technology. Be an innovator and take control of your data. Read more about Dapps and Ethereum <a href="https://blockgeeks.com/guides/ethereum/">here</a>.  
             </p>
-            <ol>
+            <ol class="about-instructions">
               <li>
-                In order to use the DC Bicycle Collective Dapp download Metamask. Metamask let’s you connect to Dapps without running a full Ethereum node. https://metamask.io/ If the previous statement confuses you read <a href="https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369">this</a>.
+                In order to use the DC Bicycle Collective Dapp <a href="https://metamask.io/">download Metamask</a>. Metamask let’s you connect to Dapps without running a full Ethereum node.  If the previous statement confuses you read <a href="https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369">this</a>.
               </li>
               <li>After you have installed and created an account with Metamask, choose the bicycle you want and click the ‘Borrow’ button.</li>
               <li>
-                 Head  over to the Metamask and confirm the transaction.
+                 Head  over to the Metamask icon and confirm the transaction.
               </li>
               <li>
-                Sit back and enjoy your decentralized future. 
+                Sit back and enjoy your decentralized future! 😎
               </li>
             </ol>
           </div>
@@ -87,6 +87,10 @@
       var hiddenText = $( ".about-hidden" );
       $( ".about-plus" ).on( "click", function( event ) {
         hiddenText.show();
+
+        $("html, body").animate({
+          scrollTop: $(".about-instructions").offset().top},
+          'slow');
       });
     </script>
   </body>

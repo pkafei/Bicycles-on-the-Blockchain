@@ -11,6 +11,7 @@
 
 .about-plus:hover {
 	color: #daf7a6;
+	cursor: pointer;
 }
 
 /* Hide the about text */
